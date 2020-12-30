@@ -13,6 +13,7 @@
 		EA0D52C5257CFD95008B441A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA0D52C3257CFD95008B441A /* Main.storyboard */; };
 		EA0D52C7257CFD96008B441A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA0D52C6257CFD96008B441A /* Assets.xcassets */; };
 		EA0D52CA257CFD96008B441A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA0D52C8257CFD96008B441A /* LaunchScreen.storyboard */; };
+		EA7D35AC259D11A1005E3EBF /* Снимок экрана 2020-12-30 в 23.35.38.png in Resources */ = {isa = PBXBuildFile; fileRef = EA7D35AB259D11A1005E3EBF /* Снимок экрана 2020-12-30 в 23.35.38.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EA0D52C6257CFD96008B441A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA0D52C9257CFD96008B441A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA0D52CB257CFD96008B441A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA7D35AB259D11A1005E3EBF /* Снимок экрана 2020-12-30 в 23.35.38.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2020-12-30 в 23.35.38.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		EA0D52B1257CFD94008B441A = {
 			isa = PBXGroup;
 			children = (
+				EA7D35AA259D1151005E3EBF /* Screenshots */,
 				EA0D52BC257CFD95008B441A /* TConverter */,
 				EA0D52BB257CFD95008B441A /* Products */,
 			);
@@ -65,6 +68,14 @@
 				EA0D52CB257CFD96008B441A /* Info.plist */,
 			);
 			path = TConverter;
+			sourceTree = "<group>";
+		};
+		EA7D35AA259D1151005E3EBF /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				EA7D35AB259D11A1005E3EBF /* Снимок экрана 2020-12-30 в 23.35.38.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +137,7 @@
 			files = (
 				EA0D52CA257CFD96008B441A /* LaunchScreen.storyboard in Resources */,
 				EA0D52C7257CFD96008B441A /* Assets.xcassets in Resources */,
+				EA7D35AC259D11A1005E3EBF /* Снимок экрана 2020-12-30 в 23.35.38.png in Resources */,
 				EA0D52C5257CFD95008B441A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
